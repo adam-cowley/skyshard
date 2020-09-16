@@ -1,0 +1,21 @@
+{
+  "name": "skyshard-rx-etl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "moment": "^2.27.0",
+    "neo4j-driver": "^4.1.2",
+    "rxjs": "^6.6.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
